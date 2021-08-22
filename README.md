@@ -7,8 +7,8 @@
 - 👨🏼‍💻 Hoje faço estágio em T.I na Prefeitura de Campo Largo-PR, auxiliando na criação e manutenção de sistemas, desenvolvidos em JavaScript/React e HTML/CSS. Também ajudo na administração do banco de dados, e no suporte a usuários.
  
  ### UM POUCO DO QUE EU VI (OU ESTOU VENDO) NA PUC-PR
-- Java e PHP Ambas as linguagens orientadas a objeto
-- Python, com foco em IOT(Internet das Coisas)
+- Java e PHP, ambas as linguagens com foco em POO
+- Python, com foco em ciência de dados e IOT(Internet das Coisas)
 - Banco de dados - MYSQL
 - Programação WEB (HTML/CSS)
 - Interação humano computador(UX) 
