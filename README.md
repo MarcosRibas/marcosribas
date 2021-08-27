@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-#### Busco oportunidades na área de desenvolvimento, estágio ou junior.
+#### Busco oportunidades na área de desenvolvimento front-end, estágio ou junior.
 
 - 🎨 Já estudei Design na Universidade Positivo, e trabalho freelancer com design gráfico a 6 anos.
 - 📚 Estudo Análise e Desenvolvimento de Sistemas na PUC-PR, estou no 3° semestre. Me formo em Dezembro de 2022
