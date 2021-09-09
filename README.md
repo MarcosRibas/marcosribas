@@ -17,7 +17,7 @@
 - Implementação de testes na plataforma.
 - Manutenção do banco de dados no Wonkbench
 
-#### MINHA CARREITA ATÉ AQUI:
+#### 👣MINHA CARREIRA ATÉ AQUI:
 
 - 🎨 Já estudei Design na Universidade Positivo, e trabalho freelancer com design gráfico a 6 anos.
 - 📚 Estudo Análise e Desenvolvimento de Sistemas na PUC-PR, estou no 3° semestre. Me formo em Dezembro de 2022
