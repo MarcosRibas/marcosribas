@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-### Desenvolvedor Front-End
+#### Sou Desenvolvedor Front-End
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,7 +11,7 @@
 </div>
 <br>
 
-###  👨🏼‍💻 Atualmente trabalho no time de desenvolvimento da Innovation Latam, minhas atribuições são:
+####  👨🏼‍💻 Atualmente trabalho no time de desenvolvimento da Innovation Latam, minhas atribuições são:
 - Desenvolvimento de novas funcionalidades na plataforma, utilizando HTML, Javascript, Bootstrap e Laravel.
 - Realizar tarefas de manutenção do site, como correção de bugs e melhorias de performance.
 - Implementação de testes na plataforma.
