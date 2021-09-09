@@ -15,7 +15,7 @@
 - Desenvolvimento de novas funcionalidades na plataforma, utilizando HTML, Javascript, Bootstrap e Laravel.
 - Realizar tarefas de manutenção do site, como correção de bugs e melhorias de performance.
 - Implementação de testes na plataforma.
-- Manutenção do banco de dados no Wonkbench
+- Manutenção do banco de dados no Wonkbench.
 
 ### 👣Minha carreira até aqui:
 
