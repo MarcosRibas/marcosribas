@@ -17,14 +17,14 @@
 - Implementação de testes na plataforma.
 - Manutenção do banco de dados no Wonkbench
 
-#### 👣MINHA CARREIRA ATÉ AQUI:
+#### 👣Minha carreira até aqui:
 
 - 🎨 Já estudei Design na Universidade Positivo, e trabalho freelancer com design gráfico a 6 anos.
 - 📚 Estudo Análise e Desenvolvimento de Sistemas na PUC-PR, estou no 3° semestre. Me formo em Dezembro de 2022
 - 📚 Também estou cursando na Udemy "React Js, Redux, Redux-Form, MongoDB, e Node"
 - 👨🏼‍💻 Já estagiei em T.I na Prefeitura de Campo Largo-PR, auxiliando na criação e manutenção de sistemas, desenvolvidos em JavaScript/React e HTML/CSS. Também ajudando na administração do banco de dados, e no suporte a usuários.
  
- #### 🎓UM POUCO DO QUE EU VI (OU ESTOU VENDO) NA PUC-PR
+ #### 🎓Um pouco do que eu vi (ou estou vendo) na PUC-PR
 - Java e PHP, ambas as linguagens com foco em POO
 - Python, com foco em ciência de dados e IOT(Internet das Coisas)
 - Banco de dados - MYSQL
