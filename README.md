@@ -12,7 +12,7 @@
 <br>
 
 ###  👨🏼‍💻 Atualmente trabalho no time de desenvolvimento da Innovation Latam, minhas atribuições são:
-- Desenvolvimento de novas funcionalidades na plataforma, utilizando HTML, Javascript, Bootstrap e Laravel.
+- Desenvolvimento de novas funcionalidades na plataforma, utilizando HTML, CSS, Javascript, Bootstrap e Laravel.
 - Realizar tarefas de manutenção do site, como correção de bugs e melhorias de performance.
 - Implementação de testes na plataforma.
 - Manutenção do banco de dados MySQL.
