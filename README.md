@@ -20,7 +20,7 @@
 ### 👣Minha carreira até aqui:
 
 - 🎨 Já estudei Design na Universidade Positivo, e trabalho freelancer com design gráfico a 6 anos.
-- 📚 Formado em Análise e Desenvolvimento de Sistemas na PUC-PR, estou no 4° período. Me formo em Dezembro de 2022
+- 📚 Formado em Análise e Desenvolvimento de Sistemas na PUC-PR.
 - 👨🏼‍💻 Já estagiei em T.I na Prefeitura de Campo Largo-PR, auxiliando na criação e manutenção de sistemas, desenvolvidos em JavaScript/React e HTML/CSS. Também ajudando na administração do banco de dados, e no suporte a usuários.
  
  ### 🎓Um pouco do que eu vi (ou estou vendo) na PUC-PR
